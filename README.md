@@ -94,7 +94,3 @@ I have hands-on experience working with structured and unstructured data, automa
 Beyond work, I enjoy solving complex algorithms (like the Rubik’s Cube), swimming, hiking, and gaming, all of which fuel my creativity and logical thinking.
 
 I am constantly learning, exploring modern data engineering practices, and striving to deliver data solutions that are not only efficient but also impactful.
-
-
-[![LinkedIn](https://www.linkedin.com/in/mubarak-afolabi-329548182/)
-[![Portfolio](https://afo-portfolio.vercel.app/)
